@@ -11,8 +11,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kevinjanbarluado2/laravelWeatherApp.git
-    cd laravelWeatherApp
+    git clone https://github.com/kevinjanbarluado2/laravel-weather-app.git
+    cd laravel-weather-app
     ```
 
 2. Install dependencies:
