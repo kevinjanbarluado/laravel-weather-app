@@ -6,6 +6,7 @@
 ## Requirements
 
 - PHP ^8.1
+- OpenWeatherAPI key
 
 ## Installation
 
